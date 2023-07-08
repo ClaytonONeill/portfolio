@@ -7,6 +7,12 @@
   flex-direction: row;
 }
 
+.about-image  {
+  aspect-ratio: 0.9/1;
+  height: 28em;
+  box-shadow: 0px 0px 10px grey;
+}
+
 .navbar-custom {
   font-size: large;
 }
@@ -103,6 +109,7 @@ section.timeline-card-content div.card-description > p {
   position: relative;
   margin-top: 60px;
 }
+
 
 @media only screen and (min-width: 768px) and (max-width: 992px) {
   .navbar__link {
