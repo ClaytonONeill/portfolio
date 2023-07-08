@@ -1,33 +1,25 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Software Developer II",
+            "subtitle": "Towson University",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Worked with the Center for GIS team to design, build, and deploy mapping applications for state transportation and health agencies.",
+                "Web mapping with Leaflet and ArcGIS 4.3 Javascript API, front-end work with ReactJS and BackboneJS, and database work with ArcGIS and MS SQL Server. Back-end work with .NET."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "02/2022 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Web Developer",
+            "subtitle": "Hop N' Cru",
+            "workType": "Independent",
             "workDescription": [
-                "Worked on abc."
+                "Built and maintained a web app for displaying and updating beer and wine store inventory and managing customer contacts.",
+                "Integrated google maps and business tools into a React Front end with PHP, MongoDB back end.",
+                "Iterative releases incorporating direct client and public feedback."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "04/2020 – 08/2020"
         }
     ]
 }

@@ -1,19 +1,15 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Aug 2021 - ",
+            "cardTitle": "BS, Computer Science",
+            "cardSubtitle":"University of Maryland Global Campus" 
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Feb 2020 - Apr 2020",
+            "cardTitle": "General Assembly",
+            "cardSubtitle":"Software Engineering Fellow",
+            "cardDetailedText": "24-week, 700-hour full-stack program conducted in a remote setting, providing experience with the latest front and back-end programming languages, tools, and methodologies."
         }
     ]
 }
