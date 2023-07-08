@@ -1,5 +1,4 @@
 {
-    "about": " This is where you can describe about **yourself**. The more you describe about yourself, the better it is!\n\n\nExtra Information about you, like hobbies and your goals.\nExample Paragraph: I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs.",
-    "imageSource": "images/about/profile.png"
-    
+  "about": "Hello!  My name is Clay O'Neill, a Web Developer from Maryland.\n\n\nI have four years of development experience having gained an interest in computer programming a little later on in life. Previously, I had spent most of my time studying audio engineering, and working as a musician.  I have always enjoyed problem solving and puzzles so the transition into the world of computer science was as exciting as it was challenging!  I am currently employed as a Full Stack web developer and am also a full time CS student.  In my off time, I enjoy cuddling with my two resuce pitbulls, cooking up new vegan recipies, and bothering my wife whenever possible. Thank you for checking out my portfolio!",
+  "imageSource": "images/about/profile.png"
 }
