@@ -1,15 +1,15 @@
 {
-    "education":[
-        {
-            "title": "Aug 2021 - ",
-            "cardTitle": "BS, Computer Science",
-            "cardSubtitle":"University of Maryland Global Campus" 
-        },
-        {
-            "title": "Feb 2020 - Apr 2020",
-            "cardTitle": "General Assembly",
-            "cardSubtitle":"Software Engineering Fellow",
-            "cardDetailedText": "24-week, 700-hour full-stack program conducted in a remote setting, providing experience with the latest front and back-end programming languages, tools, and methodologies."
-        }
-    ]
+  "education": [
+    {
+      "title": "Aug 2021 - ",
+      "cardTitle": "BS, Double Major: Computer Science and Web & Digital Design",
+      "cardSubtitle": "University of Maryland Global Campus"
+    },
+    {
+      "title": "Feb 2020 - Apr 2020",
+      "cardTitle": "General Assembly",
+      "cardSubtitle": "Software Engineering Fellow",
+      "cardDetailedText": "24-week, 700-hour full-stack program conducted in a remote setting, providing experience with the latest front and back-end programming languages, tools, and methodologies."
+    }
+  ]
 }

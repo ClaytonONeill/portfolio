@@ -1,12 +1,12 @@
-import React, { useState, useEffect, useContext } from 'react';
-import { Container, Row, Button } from 'react-bootstrap';
-import { ThemeContext } from 'styled-components';
-import PropTypes from 'prop-types';
-import Fade from 'react-reveal/Fade';
-import Header from './Header';
-import endpoints from '../constants/endpoints';
-import ProjectCard from './projects/ProjectCard';
-import FallbackSpinner from './FallbackSpinner';
+import React, { useState, useEffect, useContext } from "react";
+import { Container, Row, Button } from "react-bootstrap";
+import { ThemeContext } from "styled-components";
+import PropTypes from "prop-types";
+import Fade from "react-reveal/Fade";
+import Header from "./Header";
+import endpoints from "../constants/endpoints";
+import ProjectCard from "./projects/ProjectCard";
+import FallbackSpinner from "./FallbackSpinner";
 
 const styles = {
   containerStyle: {
@@ -25,7 +25,7 @@ const Projects = (props) => {
 
   useEffect(() => {
     fetch(endpoints.projects, {
-      method: 'GET',
+      method: "GET",
     })
       .then((res) => res.json())
       .then((res) => setData(res))
@@ -45,16 +45,6 @@ const Projects = (props) => {
                 </Fade>
               ))}
             </Row>
-
-            {!showMore && (
-              <Button
-                style={styles.showMoreStyle}
-                variant={bsSecondaryVariant}
-                onClick={() => setShowMore(true)}
-              >
-                show more
-              </Button>
-            )}
           </Container>
         </div>
       ) : (

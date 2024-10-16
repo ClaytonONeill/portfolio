@@ -1,150 +1,79 @@
 {
-    "projects" : [
+  "projects": [
+    {
+      "image": "images/projects/mdh.png",
+      "title": "MDH Environmental Public Health Tracking Portal",
+      "bodyText": "Portal built for the Maryland Department of Health. Tracking aims to protect communities by providing federal, state, and local agencies with useful environmental and health data that can be used to plan, implement, and evaluate public health actions to prevent and manage environmentally-related diseases.  \n\nThe site is public facing and updated regularly, check it out with the link below!",
+      "links": [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
-                }
-            ],
-            "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
-            ]
-        },
-        {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
-            ]
+          "text": "Live",
+          "href": "https://maps.health.maryland.gov/ephtportal/"
         }
-    ]
+      ],
+      "tags": [
+        "React",
+        "Leaflet",
+        "JavaScript",
+        "Material UI",
+        ".NET",
+        "C#",
+        "SQl Server",
+        "WCAG 2.0",
+        "A11y"
+      ]
+    },
+    {
+      "image": "images/projects/mdn.png",
+      "title": "Maryland Defense Network",
+      "bodyText": "The Maryland Defense Network allows users to make meaningful connections, understand government contracting opportunities, grow business prospects, and assess the overall defense industry impact. \n\n The Maryland defense network collects data from several federal data sources as well as data collected directly by Maryland-based companies through the tool. Integration of the various sources fills in the gaps and provides a more complete picture of company data, and the analysis that is performed assists in the dissemination of the data through custom maps, reports, and tables.  Check this one out! ",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://marylanddefensenetwork.org/"
+        }
+      ],
+      "tags": [
+        "JavaScript",
+        "React",
+        "Esri JS SDK",
+        "Bootstrap",
+        "Node JS",
+        "Express"
+      ]
+    },
+    {
+      "image": "images/projects/tigers.png",
+      "title": "MDOT TIGERS Dashboard",
+      "bodyText": "An internal dashboard used by MTA supervisors which provides mapping and data visualizations for Maryland Transit Administration (MTA) maintenance facilities, access to key documents, inspection compliance reporting, and stormwater compliance. \n\nThis project was originally built with Backbone JS and updated to use​ ReactJS and the newest version of the Esri JS SDK. \n\nAn additional module was added in 2024 that incorporated Esri's Survey 123 interface to allow for realtime inspections data to populate dedicated data displays.",
+      "tags": [
+        "JavaScript",
+        "React",
+        "Esri JS SDK",
+        "Bootstrap",
+        ".NET",
+        "C#",
+        "SQL Server"
+      ]
+    },
+    {
+      "image": "images/projects/campus.png",
+      "title": "Towson Campus Map Reboot",
+      "bodyText": "An update to the existing Towson campus map which was built in compliance with WCAG 2.0 standards to provide a streamlined and enjoyable UX for all end users.  \n\nUnlike other projects featured here, this was green field development where I was given complete control over the interface design, technology stack, and testing suite configuration. \n\nCheck it out!",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://www.towson.edu/maps/"
+        }
+      ],
+      "tags": [
+        "JavaScript",
+        "React",
+        "Material UI",
+        "Esri JS SDK",
+        "Google Earth API",
+        "WCAG 2.0",
+        "A11y"
+      ]
+    }
+  ]
 }
